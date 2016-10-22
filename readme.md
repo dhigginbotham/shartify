@@ -1,5 +1,5 @@
 # Shartify
-Streaming server side restful chart api using express, `app.use()` and rejoice.
+Streaming server side restful chart api using express, `app.use()` and rejoice.  Uses [`nchart`](#) and [`node-canvas`](#) to make the badass charts, this is a simple wrapper for express.  Thanks really goes to their hard work.
 
 # Example Donut Chart
 ```json
