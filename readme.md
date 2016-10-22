@@ -1,7 +1,7 @@
 # Shartify
-Streaming server side restful chart api using express, `app.use()` and rejoice.  Uses [`nchart`](#) and [`node-canvas`](#) to make the badass charts, this is a simple wrapper for express.  Thanks really goes to their hard work.
+Streaming server side restful chart api using express, `app.use()` and rejoice.  Uses [`nchart`](https://github.com/my-archives/nchart) and [`node-canvas`](https://github.com/chartjs/Chart.js) to make the badass charts, this is a simple wrapper for express.  Thanks really goes to their hard work.
 
-# Example Donut Chart
+# [Example Donut Chart](https://github.com/chartjs/Chart.js/blob/v1.1.1/docs/05-Pie-Doughnut-Chart.md)
 ```json
 {
   "name": "example-donut-chart",
@@ -46,7 +46,7 @@ Streaming server side restful chart api using express, `app.use()` and rejoice. 
 
 ----
 
-# Example Line Chart
+# [Example Line Chart](https://github.com/chartjs/Chart.js/blob/v1.1.1/docs/01-Line-Chart.md)
 ```json
 {
   "name": "example-line-chart",
@@ -80,7 +80,7 @@ Streaming server side restful chart api using express, `app.use()` and rejoice. 
 ----
 
 
-# Example Bar Chart
+# [Example Bar Chart](https://github.com/chartjs/Chart.js/blob/v1.1.1/docs/02-Bar-Chart.md)
 ```json
 {
   "name": "example-bar-chart",
@@ -110,7 +110,7 @@ Streaming server side restful chart api using express, `app.use()` and rejoice. 
 ----
 
 
-# Example Radar Chart
+# [Example Radar Chart](https://github.com/chartjs/Chart.js/blob/v1.1.1/docs/03-Radar-Chart.md)
 ```json
 {
   "name": "example-radar-chart",
@@ -144,7 +144,7 @@ Streaming server side restful chart api using express, `app.use()` and rejoice. 
 ----
 
 
-# Example Polar Area Chart
+# [Example Polar Area Chart](https://github.com/chartjs/Chart.js/blob/v1.1.1/docs/04-Polar-Area-Chart.md)
 ```json
 {
   "name": "polar-example-chart",
