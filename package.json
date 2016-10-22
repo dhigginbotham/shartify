@@ -1,0 +1,24 @@
+{
+  "name": "shartify",
+  "version": "1.0.0",
+  "description": "streaming server side restful chart api with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"hahahahahhahahahahahhaaha\";"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhigginbotham/shartify.git"
+  },
+  "keywords": [
+    "streams",
+    "are",
+    "pretty"
+  ],
+  "author": "davehigginbotham@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dhigginbotham/shartify/issues"
+  },
+  "homepage": "https://github.com/dhigginbotham/shartify#readme"
+}
