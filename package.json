@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/dhigginbotham/shartify/issues"
   },
-  "homepage": "https://github.com/dhigginbotham/shartify#readme"
+  "homepage": "https://github.com/dhigginbotham/shartify#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "canvas": "^1.6.0",
+    "debug": "^2.2.0",
+    "express": "^4.14.0",
+    "lodash": "^4.16.4",
+    "nchart": "^1.0.1"
+  }
 }

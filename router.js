@@ -1,5 +1,5 @@
 const charts = require('./lib');
-const log = require('debug')('bot:app:charts:router:');
+const log = require('debug')('shartify:router:');
 const fs = require('fs');
 const path = require('path');
 const img = path.join(__dirname, '..', 'assets', 'img');
