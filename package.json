@@ -28,5 +28,8 @@
     "express": "^4.14.0",
     "lodash": "^4.16.4",
     "nchart": "^1.0.1"
+  },
+  "devDependencies": {
+    "tape": "^4.6.2"
   }
 }
